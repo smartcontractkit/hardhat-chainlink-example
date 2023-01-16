@@ -2,7 +2,7 @@
 
 This project demonstrates a basic Hardhat Chainlink plugin use case. It comes with a sample contract and a script that deploys that contract.
 
-Copy the `.env.example` file to a file named `.env`, and put your Private Key and [Alchemy key]() like this:
+Copy the `.env.example` file to a file named `.env`, and put your Private Key and [Alchemy key](https://www.alchemy.com/) like this:
 
 ```shell
 GOERLI_RPC_URL="https://eth-goerli.g.alchemy.com/v2/YOUR_ALCHEMY_KEY_GOES_HERE"
