@@ -1,5 +1,5 @@
 {
-  "name": "hardhat-project",
+  "name": "@chainlink/hardhat-chainlink-example",
   "devDependencies": {
     "@chainlink/contracts": "^0.5.1",
     "@chainlink/hardhat-chainlink": "^0.0.1",
